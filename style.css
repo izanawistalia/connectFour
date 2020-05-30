@@ -1,0 +1,23 @@
+.grid{display: flex;
+    flex-flow: row wrap;
+    border: solid 2px black;
+    height: 245px;
+    width: 290px;
+}
+.grid div{
+    height: 40px;
+    width: 40px;
+    border: dotted 0.5px rgb(226, 216, 216);
+}
+.player1{
+    background-color: red;
+    border-radius: 20px;
+}
+.player2{
+    background-color: blue;
+    border-radius: 20px;
+}
+h3 span div{
+    height: 30px;
+    width: 40px;
+}
